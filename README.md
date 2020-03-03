@@ -9,7 +9,12 @@ If you want to modify it, edit cpp files and rebuild it.
 
 You can use it to match opencv index with camera name.
 
-------------------------------------------------------
+------------------------------------------
+Dependency: Visual C++ Redistributable 2019
+
+You can download it here: https://support.microsoft.com/ko-kr/help/2977003/the-latest-supported-visual-c-downloads
+
+
 
 Tested Env: windows10, python3.
 
