@@ -4,7 +4,7 @@ A simple function to find a connected camera list with media foundation. This is
 
 If you are looking for a function with Directshow, see https://www.codeproject.com/Articles/1274094/Capturing-Images-from-Camera-using-Python-and-Dire.
 
-Download pymf.pyd to your PYTHONPATH to just use it.
+Download pymf.pyd(32-bit -> file in folder 32, 64-bit -> ...) to your PYTHONPATH to just use it.
 If you want to modify it, edit cpp files and rebuild it. 
 
 You can use it to match opencv index with camera name.
